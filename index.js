@@ -3,6 +3,7 @@ const { Client } = require("revolt.js");
 const fetch = require("node-fetch");
 
 const client = new Client();
+const UPDATE_INTERVAL_MS = Number(process.env.UPDATE_INTERVAL_MS) 
 
 client.once("ready", async () => {
   console.log(`✅ Logged in as ${client.user.username}`);
@@ -22,7 +23,7 @@ async function getNowPlaying(username) {
     if (!track || track["@attr"]?.nowplaying !== "true") return null;
 
     const song = `${track.name} - ${track.artist["#text"]}`;
-    return `🎧 Now playing: ${song}`;
+    return `🎧 : ${song}`;
   } catch (err) {
     console.error("❌ Failed to fetch Last.fm data:", err);
     return null;
