@@ -18,7 +18,7 @@ A lightweight self-bot for [Revolt](https://revolt.chat) that fetches your curre
 ### Requirements
 
 - [Node.js](https://nodejs.org/) v22.15.0 or higher  
-- Your Revolt user token (self-bot token)  
+- Your Revolt user token 
 - A [Last.fm](https://www.last.fm) API key (and account)
 - Your Last.fm username
 
