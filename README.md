@@ -1,3 +1,7 @@
+<p align="center">
+  <strong><span style="color: red; font-size: 18px;">🚨 DEPRECATED: Please use the updated repo at <a href="https://github.com/Asraye/RevoltRPC-Unofficial">Asraye/RevoltRPC-Unofficial</a></span></strong>
+</p>
+
 # Revolt.js Last.fm Now Playing Self-Bot
 
 A simple self-bot for [Revolt](https://revolt.chat) that fetches your currently playing track from Last.fm and updates your Revolt status every 30 seconds.
