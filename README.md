@@ -1,6 +1,11 @@
-<p align="center">
-  <strong><span style="color: red; font-size: 18px;">🚨 DEPRECATED: Please use the updated repo at <a href="https://github.com/Asraye/RevoltRPC-Unofficial">Asraye/RevoltRPC-Unofficial</a></span></strong>
-</p>
+# ❌🚨 DEPRECATED PROJECT – READ THIS! 🚨❌
+
+> **This project is no longer maintained.**  
+> Please use the new actively developed version here:  
+> 👉 [https://github.com/Asraye/RevoltRPC-Unofficial](https://github.com/Asraye/RevoltRPC-Unofficial)
+
+
+
 
 # Revolt.js Last.fm Now Playing Self-Bot
 
