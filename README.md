@@ -45,8 +45,11 @@ To get your user token from the browser:
 
 1. Clone or download this repository and place the files in a folder.
 2. Open a terminal and navigate to that folder.
-3. Install the required dependencies:
-
+3. initialize project:
+    ```bash
+    npm init -y
+    ```
+4. Install the required dependencies:
     ```bash
     npm install revolt.js node-fetch@2 dotenv
     ```
