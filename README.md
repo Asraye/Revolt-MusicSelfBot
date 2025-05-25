@@ -1,6 +1,6 @@
 # Revolt.js Last.fm Now Playing Self-Bot
 
-A lightweight self-bot for [Revolt](https://revolt.chat) that fetches your currently playing track from Last.fm and updates your Revolt status every 30 seconds.
+A simple self-bot for [Revolt](https://revolt.chat) that fetches your currently playing track from Last.fm and updates your Revolt status every 30 seconds.
 
 ---
 
@@ -48,7 +48,7 @@ To get your user token from the browser:
 3. Install the required dependencies:
 
     ```bash
-    npm install
+    npm install revolt.js node-fetch@2 dotenv
     ```
 
 ### Configuration
